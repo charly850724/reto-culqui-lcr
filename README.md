@@ -58,3 +58,8 @@ Player 4: 4(*)
 Player 5: 4
 Center: 1
 ```
+
+```
+You can also see the explanation in this video:
+https://www.loom.com/share/b2e76474d53341349fda3a1ac6be4639
+```
